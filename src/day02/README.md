@@ -13,3 +13,9 @@ C Z Scissors 3
 Win = 6
 Draw = 3
 Lose = 0
+
+Part 2 :
+
+X = lost
+Y = draw
+Z = win
