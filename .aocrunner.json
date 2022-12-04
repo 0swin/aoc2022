@@ -39,10 +39,9 @@
         "time": 0.562583
       },
       "part2": {
-        "solved": true,
+        "solved": false,
         "result": "2838",
-        "attempts": [],
-        "time": 0.754708
+        "time": 0.752167
       }
     },
     {
