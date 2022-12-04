@@ -1,5 +1,4 @@
 import run from "aocrunner";
-import { map, split } from "lodash";
 
 const parseInput = (rawInput: string) => rawInput;
 
